@@ -79,6 +79,27 @@ h1,h2,h3,h4,h5,h6 {
     background-size: cover;
 }
 
+#page-education {
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#page-skills {
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
 #page-welcome header {
     color: #fff;
     padding-top: 20%;
@@ -128,6 +149,11 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #page-experience {
+    padding: 75px 0;
+    background: #f7f7f7;
+}
+
+#page-about {
     padding: 75px 0;
     background: #f7f7f7;
 }
